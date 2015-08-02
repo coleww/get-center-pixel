@@ -1,0 +1,15 @@
+{
+  "name": "get-center-pixel",
+  "description": "Put A Description Here!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "devDependencies": {
+    "standard": "*",
+    "tape": "*"
+  },
+  "license": "MIT",
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
+}
