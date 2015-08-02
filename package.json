@@ -1,6 +1,6 @@
 {
   "name": "get-center-pixel",
-  "description": "Put A Description Here!",
+  "description": "Get the center pixel from an array of canvas pixel data",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
