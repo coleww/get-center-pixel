@@ -11,5 +11,23 @@
     "tape": "*"
   },
   "license": "MIT",
-  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "dependencies": {
+    "standard": "^4.5.4",
+    "tape": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coleww/get-center-pixel.git"
+  },
+  "keywords": [
+    "canvas",
+    "pixel",
+    "center",
+    "image"
+  ],
+  "bugs": {
+    "url": "https://github.com/coleww/get-center-pixel/issues"
+  },
+  "homepage": "https://github.com/coleww/get-center-pixel"
 }
